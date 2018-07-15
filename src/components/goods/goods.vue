@@ -294,10 +294,10 @@
               margin-right: 5px;
               font-size: 14px;
               color: rgb(240, 20, 20);
-              .old-price {
-                font-size: 10px;
-                color: rgb(147, 153, 159);
-              }
+            }
+            .old-price {
+              font-size: 10px;
+              color: rgb(147, 153, 159);
             }
           }
           .cartcontrol-wrapper {
